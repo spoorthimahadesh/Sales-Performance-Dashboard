@@ -8,15 +8,15 @@ The dashboard integrates multiple visualizations to help stakeholders quickly un
 
 🎯 Objectives
 
-Analyze sales and profit performance across countries and regions
+- Analyze sales and profit performance across countries and regions
 
-Identify top-performing product categories and sub-categories
+- Identify top-performing product categories and sub-categories
 
-Understand the impact of discounts on sales and profitability
+- Understand the impact of discounts on sales and profitability
 
-Examine monthly and quarterly trends in profit and sales
+- Examine monthly and quarterly trends in profit and sales
 
-Explore the relationship between sales and profit at transaction level
+- Explore the relationship between sales and profit at transaction level
 
 📈 Dashboard Components
 
@@ -38,15 +38,15 @@ The dashboard also includes interactive filters, allowing users to explore insig
 
 🔍 Key Insights
 
-Technology products generate the highest sales and strong profit growth.
+- Technology products generate the highest sales and strong profit growth.
 
-North America contributes the highest overall profitability.
+- North America contributes the highest overall profitability.
 
-Some sub-categories rely heavily on discounts but do not generate proportional sales.
+- Some sub-categories rely heavily on discounts but do not generate proportional sales.
 
-Profit shows an overall increasing trend with seasonal fluctuations.
+- Profit shows an overall increasing trend with seasonal fluctuations.
 
-While sales and profit generally have a positive relationship, some high-sales transactions produce low profit due to discounting.
+- While sales and profit generally have a positive relationship, some high-sales transactions produce low profit due to discounting.
 
 💡 Business Recommendations
 
@@ -60,9 +60,23 @@ Expand opportunities in underperforming regions.
 Geographic analysis shows uneven profit distribution, indicating potential growth areas.
 
 🛠 Tools & Technologies
+- Tableau – Data visualization and dashboard creation
 
-Tableau – Data visualization and dashboard creation
+- Data Analysis & Business Intelligence techniques
 
-Data Analysis & Business Intelligence techniques
+- Interactive dashboard design
 
-Interactive dashboard design
+🚀 How to Use
+
+Download the Tableau workbook (.twbx) from the repository.
+
+Open it using Tableau Desktop or Tableau Public.
+
+Explore the interactive dashboard using filters and selections.
+
+📬 Author
+
+Spoorthi M
+Electrical & Electronics Engineering Student
+Interested in Data Analytics, Visualization, and Business Intelligence
+
